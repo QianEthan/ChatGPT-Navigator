@@ -1,0 +1,332 @@
+[
+  {
+    "role": "AXGroup",
+    "depth": 0,
+    "text": "Conversation",
+    "subrole": "AXLandmarkRegion"
+  },
+  {
+    "role": "AXHeading",
+    "depth": 4,
+    "text": "You said:",
+    "subrole": ""
+  },
+  {
+    "role": "AXStaticText",
+    "depth": 5,
+    "text": "You said:",
+    "subrole": ""
+  },
+  {
+    "role": "AXGroup",
+    "depth": 4,
+    "text": "",
+    "subrole": ""
+  },
+  {
+    "role": "AXGroup",
+    "depth": 5,
+    "text": "",
+    "subrole": ""
+  },
+  {
+    "role": "AXGroup",
+    "depth": 6,
+    "text": "",
+    "subrole": ""
+  },
+  {
+    "role": "AXStaticText",
+    "depth": 7,
+    "text": "NAVTEST ONE. Reply with only: Apple.",
+    "subrole": ""
+  },
+  {
+    "role": "AXStaticText",
+    "depth": 4,
+    "text": "Friday 12:00 PM",
+    "subrole": ""
+  },
+  {
+    "role": "AXGroup",
+    "depth": 4,
+    "text": "",
+    "subrole": ""
+  },
+  {
+    "role": "AXButton",
+    "depth": 5,
+    "text": "Copy message",
+    "subrole": ""
+  },
+  {
+    "role": "AXHeading",
+    "depth": 4,
+    "text": "ChatGPT said:",
+    "subrole": ""
+  },
+  {
+    "role": "AXStaticText",
+    "depth": 5,
+    "text": "ChatGPT said:",
+    "subrole": ""
+  },
+  {
+    "role": "AXGroup",
+    "depth": 4,
+    "text": "",
+    "subrole": "AXApplicationStatus"
+  },
+  {
+    "role": "AXGroup",
+    "depth": 4,
+    "text": "",
+    "subrole": ""
+  },
+  {
+    "role": "AXStaticText",
+    "depth": 5,
+    "text": "Apple.",
+    "subrole": ""
+  },
+  {
+    "role": "AXButton",
+    "depth": 4,
+    "text": "Copy",
+    "subrole": ""
+  },
+  {
+    "role": "AXPopUpButton",
+    "depth": 4,
+    "text": "Rate response",
+    "subrole": ""
+  },
+  {
+    "role": "AXCheckBox",
+    "depth": 4,
+    "text": "Read aloud",
+    "subrole": "AXToggleButton"
+  },
+  {
+    "role": "AXPopUpButton",
+    "depth": 4,
+    "text": "More actions",
+    "subrole": ""
+  },
+  {
+    "role": "AXHeading",
+    "depth": 4,
+    "text": "You said:",
+    "subrole": ""
+  },
+  {
+    "role": "AXStaticText",
+    "depth": 5,
+    "text": "You said:",
+    "subrole": ""
+  },
+  {
+    "role": "AXGroup",
+    "depth": 4,
+    "text": "",
+    "subrole": ""
+  },
+  {
+    "role": "AXGroup",
+    "depth": 5,
+    "text": "",
+    "subrole": ""
+  },
+  {
+    "role": "AXGroup",
+    "depth": 6,
+    "text": "",
+    "subrole": ""
+  },
+  {
+    "role": "AXStaticText",
+    "depth": 7,
+    "text": "NAVTEST TWO. Reply with only: Banana.",
+    "subrole": ""
+  },
+  {
+    "role": "AXStaticText",
+    "depth": 4,
+    "text": "Friday 12:00 PM",
+    "subrole": ""
+  },
+  {
+    "role": "AXGroup",
+    "depth": 4,
+    "text": "",
+    "subrole": ""
+  },
+  {
+    "role": "AXButton",
+    "depth": 5,
+    "text": "Copy message",
+    "subrole": ""
+  },
+  {
+    "role": "AXHeading",
+    "depth": 4,
+    "text": "ChatGPT said:",
+    "subrole": ""
+  },
+  {
+    "role": "AXStaticText",
+    "depth": 5,
+    "text": "ChatGPT said:",
+    "subrole": ""
+  },
+  {
+    "role": "AXGroup",
+    "depth": 4,
+    "text": "",
+    "subrole": "AXApplicationStatus"
+  },
+  {
+    "role": "AXGroup",
+    "depth": 4,
+    "text": "",
+    "subrole": ""
+  },
+  {
+    "role": "AXStaticText",
+    "depth": 5,
+    "text": "Banana.",
+    "subrole": ""
+  },
+  {
+    "role": "AXButton",
+    "depth": 4,
+    "text": "Copy",
+    "subrole": ""
+  },
+  {
+    "role": "AXPopUpButton",
+    "depth": 4,
+    "text": "Rate response",
+    "subrole": ""
+  },
+  {
+    "role": "AXCheckBox",
+    "depth": 4,
+    "text": "Read aloud",
+    "subrole": "AXToggleButton"
+  },
+  {
+    "role": "AXPopUpButton",
+    "depth": 4,
+    "text": "More actions",
+    "subrole": ""
+  },
+  {
+    "role": "AXHeading",
+    "depth": 4,
+    "text": "You said:",
+    "subrole": ""
+  },
+  {
+    "role": "AXStaticText",
+    "depth": 5,
+    "text": "You said:",
+    "subrole": ""
+  },
+  {
+    "role": "AXGroup",
+    "depth": 4,
+    "text": "",
+    "subrole": ""
+  },
+  {
+    "role": "AXGroup",
+    "depth": 5,
+    "text": "",
+    "subrole": ""
+  },
+  {
+    "role": "AXGroup",
+    "depth": 6,
+    "text": "",
+    "subrole": ""
+  },
+  {
+    "role": "AXStaticText",
+    "depth": 7,
+    "text": "NAVTEST THREE. Reply with only: Cherry.",
+    "subrole": ""
+  },
+  {
+    "role": "AXStaticText",
+    "depth": 4,
+    "text": "Friday 12:00 PM",
+    "subrole": ""
+  },
+  {
+    "role": "AXGroup",
+    "depth": 4,
+    "text": "",
+    "subrole": ""
+  },
+  {
+    "role": "AXButton",
+    "depth": 5,
+    "text": "Copy message",
+    "subrole": ""
+  },
+  {
+    "role": "AXHeading",
+    "depth": 4,
+    "text": "ChatGPT said:",
+    "subrole": ""
+  },
+  {
+    "role": "AXStaticText",
+    "depth": 5,
+    "text": "ChatGPT said:",
+    "subrole": ""
+  },
+  {
+    "role": "AXGroup",
+    "depth": 4,
+    "text": "",
+    "subrole": "AXApplicationStatus"
+  },
+  {
+    "role": "AXGroup",
+    "depth": 4,
+    "text": "",
+    "subrole": ""
+  },
+  {
+    "role": "AXStaticText",
+    "depth": 5,
+    "text": "Cherry.",
+    "subrole": ""
+  },
+  {
+    "role": "AXButton",
+    "depth": 4,
+    "text": "Copy",
+    "subrole": ""
+  },
+  {
+    "role": "AXPopUpButton",
+    "depth": 4,
+    "text": "Rate response",
+    "subrole": ""
+  },
+  {
+    "role": "AXCheckBox",
+    "depth": 4,
+    "text": "Read aloud",
+    "subrole": "AXToggleButton"
+  },
+  {
+    "role": "AXPopUpButton",
+    "depth": 4,
+    "text": "More actions",
+    "subrole": ""
+  }
+]

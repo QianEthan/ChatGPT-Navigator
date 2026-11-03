@@ -1,0 +1,44 @@
+# macOS metadata
+.DS_Store
+._*
+__MACOSX/
+
+# SwiftPM and Xcode build output / local settings
+.build/
+.build-app/
+.swiftpm/
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.app/
+*.dSYM/
+*.o
+*.swiftmodule
+*.swiftdoc
+*.profraw
+*.profdata
+
+# Locally supplied document converter (195 MB; never commit)
+/AppResources/Tools/pandoc
+
+# Credentials, signing materials, local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.mobileprovision
+*.provisionprofile
+.netrc
+credentials.json
+
+# Local diagnostics, exports, release packages
+*.log
+*.zip
+*.dmg
+*.pkg
+/Diagnostics/
+/Exports/
